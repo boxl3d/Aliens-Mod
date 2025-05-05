@@ -11,6 +11,7 @@
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
+		"upgradesTo": "Mechanized Infantry",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
